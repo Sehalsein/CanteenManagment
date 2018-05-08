@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.zhukic:sectioned-recyclerview-1.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sectioned-recyclerview-1.1.0.aar/791b0521f2ac573d92127a47b85ece77/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sectioned-recyclerview-1.1.0.aar/791b0521f2ac573d92127a47b85ece77/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.zhukic/sectioned-recyclerview/1.1.0/21a652bdc8e960867709c25bea2c10ef5c4cf4f9/sectioned-recyclerview-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

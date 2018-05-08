@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "108705956067",
+    "firebase_url": "https://canteenmanagment-99339.firebaseio.com",
+    "project_id": "canteenmanagment-99339",
+    "storage_bucket": "canteenmanagment-99339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108705956067:android:3de2361d8da45149",
+        "android_client_info": {
+          "package_name": "com.sadaf.canteenmanagment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108705956067-5hjd53o90tlop0ia0h4rc0hm485b3cg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sadaf.canteenmanagment",
+            "certificate_hash": "b32b424a57028147c15ab1a9e0db45f4ccb33eed"
+          }
+        },
+        {
+          "client_id": "108705956067-tv5brq34dl47mtiv7rruclbefud7djj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDTA6E3LfGqYEhUWp-L3NEfeMTtqYVjNU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108705956067-tv5brq34dl47mtiv7rruclbefud7djj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

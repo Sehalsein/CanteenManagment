@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="5dp">
+
+
+    <TextView
+        android:id="@+id/item_name"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chicken Biryani" />
+
+    <TextView
+        android:gravity="center"
+        android:id="@+id/item_price"
+        android:layout_weight="2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="$10.00" />
+
+    <TextView
+        android:gravity="center"
+        android:id="@+id/item_quantity"
+        android:layout_weight="2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="x2" />
+
+
+    <TextView
+        android:gravity="center"
+        android:id="@+id/item_total_price"
+        android:layout_weight="2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="$20.00" />
+
+
+
+</LinearLayout>
